@@ -18,7 +18,7 @@ This is our [website] on the surface internet to make the these bank's logins op
 - ATM PIN
 - Bank Login link
 
-Additional Services for Bank Logins Accounts:
+# Additional Services for Bank Logins Accounts:
 
 We charge these bank logins for the 10% of the available bank balance in the accounts. We are also providing withdrawal services in case you have no idea about how to withdraw safely without making it a fraudulent transfer. We provide clean and legit withdrawal through the following channels: 
 
@@ -28,7 +28,7 @@ We charge these bank logins for the 10% of the available bank balance in the acc
 - Paypal
 - Bitcoins
 
-Payments and Charges for Bank Logins Account :
+# Payments and Charges for Bank Logins Account :
 
 We do charge an additional services over the base prices of the bank logins. Transfers are done within 2 to 5 hours and multiple transactions depending on the available balance in the account. We have an automated purchase service on website and payment is available through bitcoins and other crypto-currencies. You can visit our website to know more about our services.
 
